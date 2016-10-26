@@ -1,24 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: archive
+author_profile: true
+---
 
-<head>
-    <meta charset="UTF-8">
-    <title>Figures Quiz</title>
-    <!-- the next line loads the tests for the Udacity Feedback extension -->
-    <meta name="udacity-grader" content="http://udacity.github.io/fend/fend-refresh/lesson2/problem-set/figures/tests.json">
-</head>
+{% include base_path %}
 
-<body>
-    <!--
-  You'll see some text written like this below: [words that are displayed](http://website.com). This is Markdown syntax for a link. You can think of Markdown as HTML shorthand. You'll need to turn it into HTML that looks like <a href="http://website.com">words that are displayed</a>.
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-  Learn more about Markdown here: https://daringfireball.net/projects/markdown/
-  -->
-    <!-- Turn this into HTML! -->
-    <figure>
-        <img src="redwoods_state_park.jpg" alt="redwoods_state_park">
-        <figcaption>Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011 by Chmee2 (Own work) GFDL or CC BY-SA 3.0, via Wikimedia Commons -<a href="https://commons.wikimedia.org/wiki/File%3AStout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG">Source</a></figcaption>
-    </figure>
-</body>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
-</html>
+{% include paginator.html %}
