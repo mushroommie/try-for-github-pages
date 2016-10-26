@@ -7,18 +7,18 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Nan's blog | Myushroommie's life record"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+name                     : "NAN"
+description              : "Record love,life,fun and all those little things that touch me"
+url                      : "https://mushroommie.github.io" 
+baseurl                  : "/try-for-github-pages"
+repository               : "mushroommie/try-for-github-pages"
+teaser                   : "mm-browser-mockups.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -49,24 +49,27 @@ atom_feed:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : "0FC3FD70512616B052E755A56F8952D"
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "xiaomlingnan"
 facebook:
-  username               :
+  username               : "xiaomenglnan"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "mm-layout-examples.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : 
+                        - "https://twitter.com/xiaomlingnan"
+                        - "https://facebook.com/xiaomenglnan"
+                        - "https://www.linkedin.com/in/lingnan-meng"
 
 # Analytics
 analytics:
@@ -77,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Lingnan Meng"
+  avatar           : "bio-meng.jpg"
+  bio              : "I am an awesome person."
+  location         : "Daqing,China"
+  email            : "xiaomenglnan@gmail.com"
+  uri              : "https://mushroommie.github.io/try-for-github-pages/"
   bitbucket        :
   codepen          :
   dribbble         :
