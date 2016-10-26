@@ -16,6 +16,18 @@ baseurl                  : "/try-for-github-pages"
 repository               : "mushroommie/try-for-github-pages"
 teaser                   : "mm-browser-mockups.png"
 # breadcrumbs            : false # true, false (default)
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 words_per_minute         : 200
 comments:
   provider               : "facebook"
