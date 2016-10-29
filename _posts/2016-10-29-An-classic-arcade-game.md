@@ -12,21 +12,4 @@ tags:
     - OOP javascript
 ---
 
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <title>Effective JavaScript: Frogger</title>
-    <link rel="stylesheet" href="arcade/css/style.css">
-</head>
-
-<body>
-    <span id="message" class="message">You've passed the game!</span>
-    <script src="arcade/js/jquery.min.js"></script>
-    <script src="arcade/js/resources.js"></script>
-    <script src="arcade/js/app.js"></script>
-    <script src="arcade/js/engine.js"></script>
-</body>
-
-</html>
+Finally finished this project,you can test this classic arcade game to get your star! :bowtie:
