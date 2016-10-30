@@ -12,10 +12,10 @@ tags:
     - us
 ---
 
-##和超哥第一次去西安参加他姐姐的婚礼，见见叔叔阿姨
+## 和超哥第一次去西安参加他姐姐的婚礼，见见叔叔阿姨.
 
 他从大庆出发，我从秦皇岛出发，然后在北京汇合：
 <img src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" style="height:100px;width:200px" alt="ticket to xian">
-
-记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡.
+记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡，记得的有：
+- 城墙<img src="https://rawgithub.com/mushroommie/images/master/Xian/street-1.jpg" style="height:100px;width:200px" alt="street in xian"><img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" style="height:100px;width:200px" alt="street in xian">
 
