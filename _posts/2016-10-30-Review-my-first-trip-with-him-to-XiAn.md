@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review-my-first-trip-with-him-to-Xi'an"
+title: "Review-my-first-trip-with-him-to-Xian"
 subtitle: "Share some pictures"
 date: 2016-10-30
 author: "Nan"
