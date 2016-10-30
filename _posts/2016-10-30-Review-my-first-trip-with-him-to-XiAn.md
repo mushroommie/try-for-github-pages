@@ -17,10 +17,5 @@ tags:
 
 ![ticket](img/Xian/ticket.jpg)
 
-记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡，想到的有:
-
-- 城墙
-	![street1](img/Xian/street-1.jpg)
-	![street2](img/Xian/street-2.jpg)
-	![street3](img/Xian/street-3.jpg)
+记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡.
 
