@@ -4,7 +4,7 @@ title: "Review-my-first-trip-with-him-to-Xian"
 subtitle: "Share some pictures"
 date: 2016-10-30
 author: "Nan"
-header-img: "img/Xian/street-2.jpg"
+header-img: "img/street-2.jpg"
 catalog: true
 tags:
 	- Xian
