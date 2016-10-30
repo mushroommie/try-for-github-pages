@@ -4,12 +4,12 @@ title: "Review-my-first-trip-Xian"
 subtitle: "Share some pictures"
 date: 2016-10-30
 author: "Nan"
-header-img: "img/rainbow.jpg"
+header-img: "img/rainbow.png"
 catalog: true
 tags:
-	- Xian
-	- pictures
-	- us
+    - Xian
+    - pictures
+    - us
 ---
 
 和超哥第一次去西安参加他姐姐的婚礼，见见叔叔阿姨
