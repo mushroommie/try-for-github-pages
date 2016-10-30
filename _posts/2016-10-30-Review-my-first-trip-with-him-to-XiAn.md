@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "An-class-arcade-game"
-subtitle: "Udacity纳米学位中的Poject 7"
+title: "Review-my-first-trip-Xian"
+subtitle: "Share some pictures"
 date: 2016-10-30
 author: "Nan"
-header-img: "img/arcade-game.png"
+header-img: "img/street-2.jpg"
 catalog: true
 tags:
-    - Udacity
-    - nanodegree
-    - OOP javascript
+	- Xian
+	- pictures
+	- us
 ---
 
-Finally finished this project,you can test this classic arcade game to get your star! &#9758;[Go for arcade game!](https://mushroommie.github.io/frontend-nanodegree-arcade-game/)
+##和超哥第一次去西安参加他姐姐的婚礼，见见叔叔阿姨
+
+他从大庆出发，我从秦皇岛出发，然后在北京汇合：
+
+记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡.
+
