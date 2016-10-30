@@ -18,8 +18,8 @@ tags:
 - 城墙
 <div class="container-fluid">
     <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" class="img-responsive" alt="ticket to xian">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/street-1.jpg" class="img-responsive" alt="street in xian"><img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" class="img-responsive" alt="street in xian">
+        <img class="col-md-6" src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" class="img-responsive" alt="ticket to xian">
+        <img class="col-md-6" src="https://rawgithub.com/mushroommie/images/master/Xian/street-1.jpg" class="img-responsive" alt="street in xian"><img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" class="img-responsive" alt="street in xian">
     </div>
 </div>
 
