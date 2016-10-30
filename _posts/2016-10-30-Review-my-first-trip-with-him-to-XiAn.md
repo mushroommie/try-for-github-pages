@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review-my-first-trip-with-him-to-Xian"
+title: "Review-my-first-trip-Xian"
 subtitle: "Share some pictures"
 date: 2016-10-30
 author: "Nan"
@@ -11,6 +11,7 @@ tags:
 	- pictures
 	- us
 ---
+
 ##和超哥第一次去西安参加他姐姐的婚礼，见见叔叔阿姨
 
 他从大庆出发，我从秦皇岛出发，然后在北京汇合：
