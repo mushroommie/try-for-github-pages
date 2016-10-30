@@ -19,7 +19,7 @@ tags:
 <div class="container-fluid">
     <div class="row">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" class="img-responsive" alt="ticket to xian">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/street-1.jpg" class="img-responsive" alt="street in xian"><img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" class="img-responsive" style="height:200px" alt="street in xian">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/street-1.jpg" class="img-responsive" alt="street in xian"><img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" class="img-responsive" alt="street in xian">
     </div>
 </div>
 
