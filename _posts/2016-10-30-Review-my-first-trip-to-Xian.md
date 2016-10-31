@@ -186,10 +186,8 @@ tags:
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-2.jpg" class="col-md-4 img-responsive" alt="日落">
     </div>
     <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-4.jpg" class="col-md-3 img-responsive" alt="日落">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-5.jpg" class="col-md-3 img-responsive" alt="日落">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-3.jpg" class="col-md-3 img-responsive" alt="日落">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-4.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-4.jpg" class="col-md-4 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-5.jpg" class="col-md-4 img-responsive" alt="日落">
     </div>
 </div>
 
