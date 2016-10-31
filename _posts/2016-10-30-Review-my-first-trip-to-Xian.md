@@ -18,7 +18,7 @@ tags:
 <img class="img-responsive" src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" alt="ticket to xian">
 记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡，记得的有：
 
-- 城墙
+- [城墙](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99)
 
 <div class="container-fluid">
     <div class="row">
@@ -177,7 +177,7 @@ tags:
     </div>
 </div>
 
-然后是各种我(们)的照片：
+然后是各种我的照片：
 
 <div class="fluid-container">
     <div class="row">
