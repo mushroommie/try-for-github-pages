@@ -13,6 +13,7 @@ tags:
 ---
 
 ##和超哥第一次去西安参加他姐姐的婚礼
+
 他从大庆出发，我从秦皇岛出发，然后在北京汇合。
 <img class="img-responsive" src="https://rawgithub.com/mushroommie/images/master/Xian/ticket.jpg" alt="ticket to xian">
 记不太清我们具体都去了哪些地方了，我们办了西安的旅游年卡，记得的有：
