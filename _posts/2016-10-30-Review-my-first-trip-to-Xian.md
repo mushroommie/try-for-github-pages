@@ -40,11 +40,6 @@ tags:
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-1.jpg" class="col-md-6 img-responsive" alt="钟楼">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-2.jpg" class="col-md-6 img-responsive" alt="钟楼">
     </div>
-    <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-1.jpg" class="col-md-4 img-responsive" alt="钟楼">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-2.jpg" class="col-md-4 img-responsive" alt="钟楼">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-3.jpg" class="col-md-4 img-responsive" alt="钟楼">
-    </div>
 </div>
 
 还看了钟楼的编钟表演:
@@ -130,7 +125,7 @@ tags:
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/vietnam.jpg" class="col-md-3 img-responsive" alt="东南亚风情">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/vietnam-alone.jpg" class="col-md-3 img-responsive" alt="东南亚风情">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/waterfall.jpg" class="col-md-3 img-responsive" alt="小瀑布">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/tower.jpg" class="col-md-3 img-responsive" alt="长安塔">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/tower1.jpg" class="col-md-3 img-responsive" alt="长安塔">
     </div>
 </div>
 
@@ -146,12 +141,58 @@ tags:
 
 - [大唐芙蓉园](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%94%90%E8%8A%99%E8%93%89%E5%9B%AD),这里无论白天和晚上都特别好看，强烈推荐。
 
-
+白天的时候是这样的:
+<div class="fluid-container">
     <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/sunset-1.jpg" class="col-md-4 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/colorful-town.jpg" class="col-md-3 img-responsive" alt="彩色小镇">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/dream-city.jpg" class="col-md-3 img-responsive" alt="彩色小镇">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-4.jpg" class="col-md-3 img-responsive" alt="他的独照">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-5
+        .jpg" class="col-md-3 img-responsive" alt="他的独照">
+    </div>
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/guanyu.jpg" class="col-md-3 img-responsive" alt="关羽">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/little-and-it's-mother.jpg" class="col-md-3 img-responsive" alt="小猴子和它妈妈">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/me-and-black-swan.jpg" class="col-md-3 img-responsive" alt="黑天鹅和我">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/white-swan.jpg" class="col-md-3 img-responsive" alt="白天鹅">
+    </div>
+</div>
+
+黄昏的时候是这样的：
+
+<div class="fluid-container">
+    <div class="row">
+       <img src="https://rawgithub.com/mushroommie/images/master/Xian/sunset-1.jpg" class="col-md-4 img-responsive" alt="日落">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/sunset-2.jpg" class="col-md-4 img-responsive" alt="日落">
     </div>
+</div>
 
+晚上的时候是这样的：
+
+<div class="fluid-container">
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/bling-city.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/bling-bling-city.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/bling-city-on-the-river.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/colorful-play.jpg" class="col-md-3 img-responsive" alt="日落">
+    </div>
+</div>
+
+然后是各种我(们)的照片：
+
+<div class="fluid-container">
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/selfie-1.jpg" class="col-md-4 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-1.jpg" class="col-md-4 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-2.jpg" class="col-md-4 img-responsive" alt="日落">
+    </div>
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-4.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/yeah-5.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-3.jpg" class="col-md-3 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-4.jpg" class="col-md-3 img-responsive" alt="日落">
+    </div>
+</div>
 
 
 
