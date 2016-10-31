@@ -26,6 +26,11 @@ tags:
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/street-2.jpg" class="col-md-4 img-responsive" alt="street in xian">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/street-3.jpg" class="col-md-4 img-responsive" alt="street in xian">
     </div>
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-1.jpg" class="col-md-4 img-responsive" alt="合照">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-2.jpg" class="col-md-4 img-responsive" alt="合照">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-3.jpg" class="col-md-4 img-responsive" alt="合照">
+    </div>
 </div>
 
 - [钟楼](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC)，据说这个钟是武则天的儿子送给武则天的，具体的什么就不太知道了，详情看自由的百科就行了。
@@ -42,9 +47,19 @@ tags:
     </div>
 </div>
 
-- [大唐芙蓉园](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%94%90%E8%8A%99%E8%93%89%E5%9B%AD),这里无论白天和晚上都特别好看，强烈推荐。
+还看了钟楼的编钟表演:
 
-    - 一个什么都有的博物馆
+<div class="container-fluid">
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-1.jpg" class="col-md-4 img-responsive" alt="编钟表演">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-2.jpg" class="col-md-4 img-responsive" alt="编钟表演">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/zhong-qing-3.jpg" class="col-md-4 img-responsive" alt="编钟表演">
+    </div>
+</div>
+
+- [西安世博园](http://baike.baidu.com/subview/10770/18859293.htm?fromtitle=%E8%A5%BF%E5%AE%89%E4%B8%96%E5%8D%9A%E5%9B%AD&fromid=8990529&type=syn)
+
+<img src="https://rawgithub.com/mushroommie/images/master/Xian/museum.jpg" class="col-md-12 img-responsive" alt="热带雨林">
 
 这里有很多奇怪的石头：
 
@@ -71,7 +86,7 @@ tags:
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/stone-13.jpg" class="col-md-3 img-responsive" alt="石头">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/old-man.jpg" class="col-md-3 img-responsive" alt="弥勒佛">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/pusa.jpg" class="col-md-3 img-responsive" alt="观音菩萨">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/dinosaur-bone.jpg" class="col-md-3 img-responsive" alt="钟楼">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/dinosaur-bone.jpg" class="col-md-3 img-responsive" alt="恐龙骨头">
     </div>
 </div>
 
@@ -92,22 +107,51 @@ tags:
     </div>
 </div>
 
-还有刻满唐诗的石林，还有热带植物:
+这里有热带植物:
 
 <div class="container-fluid">
     <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/rainforest-1.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/rainforest-2.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/poetry.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/catcus.jpg" class="col-md-3 img-responsive" alt="八大怪">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/rain-forest-1.jpg" class="col-md-4 img-responsive" alt="热带雨林">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/rain-forest-2.jpg" class="col-md-4 img-responsive" alt="热带雨林">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/cactus.jpg" class="col-md-4 img-responsive" alt="热带仙人掌">
     </div>
     <div class="row">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/strange-5.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/strange-6.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/strange-7.jpg" class="col-md-3 img-responsive" alt="八大怪">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/strange-8.jpg" class="col-md-3 img-responsive" alt="八大怪">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/maybe-egypt-1.jpg" class="col-md-3 img-responsive" alt="热带雨林">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/maybe-egypt-2.jpg" class="col-md-3 img-responsive" alt="热带雨林">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/bread-tree.jpg" class="col-md-3 img-responsive" alt="热带仙人掌">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/us-4.jpg" class="col-md-3 img-responsive" alt="热带仙人掌">
     </div>
 </div>
+
+还有各种山山水水:
+
+<div class="container-fluid">
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/vietnam.jpg" class="col-md-3 img-responsive" alt="东南亚风情">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/vietnam-alone.jpg" class="col-md-3 img-responsive" alt="东南亚风情">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/waterfall.jpg" class="col-md-3 img-responsive" alt="小瀑布">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/tower.jpg" class="col-md-3 img-responsive" alt="长安塔">
+    </div>
+</div>
+
+然后是一波他的独照:
+
+<div class="container-fluid">
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-2.jpg" class="col-md-4 img-responsive" alt="东南亚风情">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-3.jpg" class="col-md-4 img-responsive" alt="东南亚风情">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-4.jpg" class="col-md-4 img-responsive" alt="小瀑布">
+    </div>
+</div>
+
+- [大唐芙蓉园](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%94%90%E8%8A%99%E8%93%89%E5%9B%AD),这里无论白天和晚上都特别好看，强烈推荐。
+
+
+    <div class="row">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/sunset-1.jpg" class="col-md-4 img-responsive" alt="日落">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/sunset-2.jpg" class="col-md-4 img-responsive" alt="日落">
+    </div>
+
 
 
 
