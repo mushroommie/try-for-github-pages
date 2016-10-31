@@ -146,9 +146,8 @@ tags:
     <div class="row">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/colorful-town.jpg" class="col-md-3 img-responsive" alt="彩色小镇">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/dream-city.jpg" class="col-md-3 img-responsive" alt="彩色小镇">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-4.jpg" class="col-md-3 img-responsive" alt="他的独照">
-        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-5
-        .jpg" class="col-md-3 img-responsive" alt="他的独照">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-1.jpg" class="col-md-3 img-responsive" alt="他的独照">
+        <img src="https://rawgithub.com/mushroommie/images/master/Xian/him-5.jpg" class="col-md-3 img-responsive" alt="他的独照">
     </div>
     <div class="row">
         <img src="https://rawgithub.com/mushroommie/images/master/Xian/guanyu.jpg" class="col-md-3 img-responsive" alt="关羽">
