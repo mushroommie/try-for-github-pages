@@ -1,7 +1,7 @@
 ---
 layout: post
 header-img: "img/arch.jpg"
-title: "Try adding some clouds"
+title: "Try adding automatically typing"
 subtitle: "Patience"
 date: 2016-11-03
 author: "Nanya"
@@ -9,7 +9,7 @@ catalog: true
 tags:
     - 前端资源
     - 特效
-    - 犬夜叉
+    - 建筑
 ---
 
 <div class="container-fluid">
