@@ -11,7 +11,7 @@ tags:
     - Tanya
     - Nanya
 ---
-<div id="canvas-wrap" class="container-fluid">
+<div class="container-fluid">
     <div class="row">
         <video autoplay="true" class="col-md-10 col-md-offset-2" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
     </div>
