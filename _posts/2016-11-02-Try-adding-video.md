@@ -16,13 +16,13 @@ tags:
         <video autoplay="true" class="col-md-10 col-md-offset-2" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
     </div>
     <div class="row">
-        <div class="col">What is going on.</div>
-        <canvas id="c" class="col-md-6 col-md-offset-2"></canvas>
+        <canvas id="c" class="col-md-2"></canvas>
+        <div class="col-md-10">What is going on.</div>
     </div>
 </div>
 
 <style>
-    canvas {background: #CFF09E; display: block; }
+    canvas {background: #CFF09E;}
 </style>
 
 <script>
