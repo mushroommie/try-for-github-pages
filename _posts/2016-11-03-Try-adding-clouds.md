@@ -1,6 +1,6 @@
 ---
 layout: post
-header-img: "https://placeimg.com/1200/600/arc"
+header-img: "img/arch.jpg"
 title: "Try adding some clouds"
 subtitle: "Patience"
 date: 2016-11-03
