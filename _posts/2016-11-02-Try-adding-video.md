@@ -34,9 +34,6 @@ tags:
 
     var c = document.getElementById("c"),
         ctx = c.getContext("2d");
-    c.width = innerWidth;
-    c.height = innerHeight;
-
     var lines = [],
         maxSpeed = 5,
         spacing = 5,
