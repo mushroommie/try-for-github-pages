@@ -16,8 +16,8 @@ tags:
         <video autoplay="true" class="col-md-10 col-md-offset-2" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
     </div>
     <div class="row" id="canvas-wrap">
-        <div> </div>
-        <canvas id="c"></canvas>
+        <div>What is going on.</div>
+        <canvas id="c" class="col-md-10 col-md-offset-2"></canvas>
     </div>
 </div>
 
