@@ -15,15 +15,14 @@ tags:
     <div class="row">
         <video autoplay="true" class="col-md-10 col-md-offset-2" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
     </div>
-    <div class="row" id="canvas-wrap">
-        <div>What is going on.</div>
-        <canvas id="c" class="col-md-10 col-md-offset-2"></canvas>
+    <div class="row">
+        <div class="col">What is going on.</div>
+        <canvas id="c" class="col-md-6 col-md-offset-2"></canvas>
     </div>
 </div>
 
 <style>
-    #canvas-wrap{position:relative;}
-    #canvas-wrap canvas { position:absolute;top:0;left:0;z-index:0;background: #CFF09E; display: block; }
+    canvas {background: #CFF09E; display: block; }
 </style>
 
 <script>
@@ -31,7 +30,8 @@ tags:
 
     var c = document.getElementById("c"),
         ctx = c.getContext("2d");
-
+    ctx.font="20px Georgia";
+    ctx.fillText("Test",10,50);
     c.width = innerWidth;
     c.height = innerHeight;
 
