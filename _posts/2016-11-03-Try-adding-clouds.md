@@ -12,7 +12,7 @@ tags:
     - 犬夜叉
 ---
 
-<div class="container">
+<div class="container-fluid container">
     <div id="clouds">
         <div class="cloud1"></div>
         <div class="cloud2"></div>
