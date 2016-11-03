@@ -17,7 +17,11 @@ tags:
     </div>
     <div class="row">
         <canvas id="c" class="col-md-2"></canvas>
-        <div class="col-md-10">What is going on.</div>
+        <div class="col-md-10">
+            <p>并不是每天都有什么事情可以记录，要干的事情太多了，Udacity的课眼看着就要到期，毕设还没有做完。值得注意的是投在拉勾网上的简历全军覆没了。不知道什么时候可以找到工作。</p>
+            <p>在知乎上看到一个非常不错的前端资源整理回答:<a href="https://zhuanlan.zhihu.com/p/23344447">前端Web开发资源整理:</a></p>
+            左侧的特效来自:<a href="http://cssdeck.com/labs/a8ed194d">CssDeck</a>
+        </div>
     </div>
 </div>
 
