@@ -27,7 +27,6 @@ tags:
 
 <style>
 .container {
-    position: relative;
     height: 400px;
     overflow: hidden;
     margin: 0 auto;
