@@ -12,12 +12,13 @@ tags:
     - Nanya
 ---
 
-<video autoplay="true" class="col-md-6" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
-<canvas id="c">
-<span>test</span>
-</canvas>
+<div id="canvas-wrap">
+    <video autoplay="true" class="col-md-6" controls src="https://rawgithub.com/mushroommie/videos/master/Tanya-Speechlesser.mp4"></video>
+    <canvas id="c"></canvas>
+</div>
 <style>
-    canvas { background: #CFF09E; display: block; }
+    #canvas-wrap{position:relative;width:800px;height:600px;}
+    #canvas-wrap canvas { position:absolute;top:0;left:0;z-index:0;background: #CFF09E; display: block; }
 </style>
 <script>
 (function() {
