@@ -1,6 +1,6 @@
 ---
 layout: post
-header-img: "img/Inuyasha.jpg"
+header-img: "https://placeimg.com/1200/600/arc"
 title: "Try adding some clouds"
 subtitle: "Patience"
 date: 2016-11-03
@@ -27,11 +27,7 @@ tags:
 
 <style>
 .container {
-    height: 400px;
-    overflow: hidden;
-    margin: 0 auto;
     background: #fff;
-    padding: 0;
 }
 
 /* Clouds */
