@@ -12,16 +12,18 @@ tags:
     - 犬夜叉
 ---
 
-<div class="container-fluid container">
-    <div id="clouds">
-        <div class="cloud1"></div>
-        <div class="cloud2"></div>
-        <div class="cloud3"></div>
-    </div>
-    <div id="clouds2">
-        <div class="cloud1"></div>
-        <div class="cloud2"></div>
-        <div class="cloud3"></div>
+<div class="container-fluid">
+    <div class="row">
+        <div id="clouds">
+            <div class="cloud1"></div>
+            <div class="cloud2"></div>
+            <div class="cloud3"></div>
+        </div>
+        <div id="clouds2">
+            <div class="cloud1"></div>
+            <div class="cloud2"></div>
+            <div class="cloud3"></div>
+        </div>
     </div>
 </div>
 
