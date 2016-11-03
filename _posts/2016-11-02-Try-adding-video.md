@@ -36,8 +36,6 @@ tags:
         ctx = c.getContext("2d");
     ctx.font="20px Georgia";
     ctx.fillText("Test",10,50);
-    c.width = innerWidth;
-    c.height = innerHeight;
 
     var lines = [],
         maxSpeed = 5,
