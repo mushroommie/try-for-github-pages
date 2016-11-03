@@ -20,40 +20,40 @@ tags:
     canvas { background: #CFF09E; display: block; }
 </style>
 <script>
-    (function(){
+(function() {
 
     var c = document.getElementById("c"),
-            ctx = c.getContext("2d");
+        ctx = c.getContext("2d");
 
     c.width = innerWidth;
     c.height = innerHeight;
 
     var lines = [],
-            maxSpeed = 5,
-            spacing = 5,
-            xSpacing = 0,
-            n = innerWidth / spacing,
-            colors = ["#3B8686", "#79BD9A", "#A8DBA8", "#0B486B"],
-            i;
+        maxSpeed = 5,
+        spacing = 5,
+        xSpacing = 0,
+        n = innerWidth / spacing,
+        colors = ["#3B8686", "#79BD9A", "#A8DBA8", "#0B486B"],
+        i;
 
-    for (i = 0; i < n; i++){
+    for (i = 0; i < n; i++) {
         xSpacing += spacing;
         lines.push({
             x: xSpacing,
-            y: Math.round(Math.random()*c.height),
+            y: Math.round(Math.random() * c.height),
             width: 2,
-            height: Math.round(Math.random()*(innerHeight/10)),
-            speed: Math.random()*maxSpeed + 1,
+            height: Math.round(Math.random() * (innerHeight / 10)),
+            speed: Math.random() * maxSpeed + 1,
             color: colors[Math.floor(Math.random() * colors.length)]
         });
     }
 
 
-    function draw(){
+    function draw() {
         var i;
-        ctx.clearRect(0,0,c.width,c.height);
+        ctx.clearRect(0, 0, c.width, c.height);
 
-        for (i = 0; i < n; i++){
+        for (i = 0; i < n; i++) {
             ctx.fillStyle = lines[i].color;
             ctx.fillRect(lines[i].x, lines[i].y, lines[i].width, lines[i].height);
             lines[i].y += lines[i].speed;
@@ -65,4 +65,8 @@ tags:
         requestAnimationFrame(draw);
 
     }
+
+    draw();
+
+}());
 </script>
