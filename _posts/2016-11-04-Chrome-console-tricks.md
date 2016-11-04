@@ -74,7 +74,7 @@ tags:
 
 第一个参数可以包括*格式化指定符(format specifiers)*，允许你定义后续对象的格式和位置。
 
-<img src="https://rawgithub.com/mushroommie/images/master/console/console-log-1">
+<img src="https://rawgithub.com/mushroommie/images/master/console/console-log-1.png">
 
 <span style="font-size:12px">使用带有格式化指定符的console.log</span>。
 
