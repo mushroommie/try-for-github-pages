@@ -2,7 +2,7 @@
 layout: post
 header-img: "img/chrome-theme.png"
 title: "使用Chrome Console的调试技巧"
-subtitle: "除了console.log，console不能干别的了么？
+subtitle: "除了console.log，console不能干别的了么？"
 author: "Nanya"
 date: 2016-11-04
 catalog: true
