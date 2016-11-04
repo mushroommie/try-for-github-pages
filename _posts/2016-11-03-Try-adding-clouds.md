@@ -15,88 +15,256 @@ tags:
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-10 col-md-offset-2">
-            <div class="type-js headline">
-                <h1 class="text-js">Look mum, I'm typing!</h1>
-            </div>
-                <!-- Personal Twitter Link -->
-            <a href="http://twitter.com/Connor_Gaunt" target="_blank" class="twitterLink">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410.155 410.155">
-                    <path d="M403.632 74.18c-9.113 4.04-18.573 7.23-28.28 9.537 10.696-10.164 18.738-22.877 23.275-37.067 1.295-4.05-3.105-7.554-6.763-5.385-13.504 8.01-28.05 14.02-43.235 17.862-.882.223-1.79.336-2.703.336-2.766 0-5.455-1.027-7.57-2.89C322.2 42.332 301.422 34.49 279.85 34.49c-9.336 0-18.76 1.456-28.015 4.326C223.163 47.71 201.04 71.36 194.1 100.54c-2.605 10.945-3.31 21.9-2.098 32.56.14 1.225-.44 2.08-.797 2.48-.627.704-1.516 1.107-2.44 1.107-.102 0-.208-.005-.313-.015-62.762-5.83-119.358-36.068-159.363-85.14-2.04-2.503-5.953-2.196-7.58.593C13.678 65.565 9.538 80.937 9.538 96.58c0 23.97 9.63 46.562 26.36 63.03-7.035-1.667-13.844-4.294-20.17-7.807-3.06-1.7-6.824.485-6.867 3.985-.438 35.612 20.412 67.3 51.646 81.57-.63.014-1.258.02-1.888.02-4.95 0-9.964-.477-14.898-1.42-3.446-.658-6.34 2.61-5.27 5.952 10.137 31.65 37.39 54.98 70 60.278-27.065 18.17-58.584 27.753-91.39 27.753l-10.226-.005c-3.15 0-5.816 2.054-6.62 5.106-.79 3.007.667 6.178 3.354 7.74 36.966 21.514 79.13 32.884 121.955 32.884 37.485 0 72.55-7.44 104.22-22.11 29.032-13.448 54.688-32.673 76.254-57.14 20.09-22.792 35.8-49.103 46.692-78.2 10.382-27.738 15.87-57.334 15.87-85.59v-1.346c0-4.537 2.05-8.806 5.63-11.712 13.586-11.03 25.416-24.014 35.16-38.59 2.574-3.85-1.484-8.674-5.718-6.796z" fill="#76A9EA" />
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="178px" height="178px" viewBox="0 0 178 178" version="1.1">
+                    <defs/>
+                    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+                        <g id="Cloud" sketch:type="MSLayerGroup">
+                            <circle id="Oval-4" fill="#D8D8D8" sketch:type="MSShapeGroup" cx="89" cy="89" r="89" />
+                            <path d="M62.591343 44.5037112C44.8577507 44.6968468 30.59375 52.4037829 30.59375 61.8828125 30.59375 71.4830748 45.2249445 79.265625 63.2734375 79.265625L85.5234375 79.265625 92.2427582 79.265625 107.773438 79.265625C125.821931 79.265625 140.453125 71.4830748 140.453125 61.8828125 140.453125 56.5903424 136.006501 51.8503004 128.992061 48.6620524 129.21354 47.5297254 129.328125 46.3722762 129.328125 45.1953125 129.328125 31.7549453 114.385629 20.859375 95.953125 20.859375 77.8378389 20.859375 63.0934697 31.3831538 62.5913433 44.5037031L62.591343 44.5037112Z" id="Oval-1" fill="#000000" sketch:type="MSShapeGroup" />
+                            <path class="lightning" d="M104.118299 81.17867L114.679489 81.1922433 108.93231 92.6730268 117.525366 92.4705578 106.132809 123.121422 112.042867 96.9203512 103.625134 96.9203512 109.25807 85.4655832 102.931763 85.4655832 104.118299 81.17867Z" id="lightning" fill="#D8D8D8" sketch:type="MSShapeGroup" />
+                            <path class="rain1" d="M57.7109375 95.5785693C59.63099 95.5785693 61.1875 93.8563015 61.1875 90.64904 61.1875 87.4417785 57.7109375 81.17867 57.7109375 81.17867 57.7109375 81.17867 54.234375 87.4417785 54.234375 90.64904 54.234375 93.8563015 55.790885 95.5785693 57.7109375 95.5785693Z" id="rain1" fill="#4990E2" sketch:type="MSShapeGroup" />
+                            <path class="rain2" d="M85.5234375 95.5785693C87.44349 95.5785693 89 93.8563015 89 90.64904 89 87.4417785 85.5234375 81.17867 85.5234375 81.17867 85.5234375 81.17867 82.046875 87.4417785 82.046875 90.64904 82.046875 93.8563015 83.603385 95.5785693 85.5234375 95.5785693Z" id="rain2" fill="#4990E2" sketch:type="MSShapeGroup" />
+                            <path class="rain3" d="M71.6171875 102.778519C73.53724 102.778519 75.09375 101.056251 75.09375 97.8489897 75.09375 94.6417281 71.6171875 88.3786197 71.6171875 88.3786197 71.6171875 88.3786197 68.140625 94.6417281 68.140625 97.8489897 68.140625 101.056251 69.697135 102.778519 71.6171875 102.778519Z" id="rain3" fill="#4990E2" sketch:type="MSShapeGroup" />
+                        </g>
+                    </g>
                 </svg>
-            </a>
          </div>
      </div>
 </div>
 
 
 <style>
-// CSS Needed to make it work (Wrote not using SCSS at all copy and paste away)
-// copy and paste into your CSS and the cursor should appear when typing begins
-.text-js{
-  opacity: 0;
-}
-.cursor{
-  display: block;
-  position: absolute;
-  height: 100%;
-  top: 0;
-  right: -5px;
-  width: 2px;
-  /* Change colour of Cursor Here */
-  background-color: white;
-  z-index: 1;
-  animation: flash 0.5s none infinite alternate;
-}
-@keyframes flash{
-  0%{
-    opacity: 1;
-  }
-  100%{
-    opacity: 0;
-  }
+* {
+    padding: 0;
+    margin: 0;
 }
 
 
+/*Eco Light icon animation*/
 
-
-
-// Rest of CSS (Purely for this pen)
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
-
-*{
-  margin: 0;
-  padding: 0;
-  boz-sizing: border-box;
-  font-family: "Open Sans", sans-serif
-}
-.col-md-10{
-  background: linear-gradient(135deg,#00C4FF,#9D1BB2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-// Text Can be styled just like normal
-.headline{
-  margin: 20px;
-  color: white;
-  font-size: 32px;
-  text-align: center;
-  h1{
-    letter-spacing: 1.6px;
-    font-weight: 300;
-  }
+.icon {
+    display: block;
+    /*  background:red;*/
+    margin: 0 auto;
+    margin-top: 100px;
 }
 
-.twitterLink{
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 10px 15px;
-  z-index: 3;
-  svg{
-    width: 25px;
-  }
+.icon .glow {
+    -webkit-transition: fill 1s ease-in;
+    transition: fill 1s ease-in;
 }
+
+.icon:hover .glow {
+    fill: rgba(121, 175, 58, 0.8);
+}
+
+
+/*Table lamp animation*/
+
+.icon .tableGlow {
+    -webkit-transition: fill 1s ease-in;
+    transition: fill 1s ease-in;
+}
+
+.icon:hover .tableGlow {
+    fill: rgba(247, 237, 109, 0.8);
+}
+
+
+/*Cloud animation*/
+
+.icon .lightning {
+    -webkit-transition: fill 1s ease-in;
+    transition: fill 1s ease-in;
+}
+
+.icon:hover .lightning {
+    fill: rgb(247, 237, 109);
+}
+
+.icon .rain1 {
+    fill: #D8D8D8;
+    -webkit-transition: 1s ease-in;
+    transition: 1s ease-in;
+}
+
+.icon:hover .rain1 {
+    -webkit-transform: translate(0, 30px);
+    transform: translate(0, 30px);
+    fill: #666;
+}
+
+.icon .rain2 {
+    fill: #D8D8D8;
+    -webkit-transition: all 0.7s ease-in;
+    transition: all 0.7s ease-in;
+}
+
+.icon:hover .rain2 {
+    -webkit-transform: translate(0, 40px);
+    transform: translate(0, 40px);
+    fill: #555;
+}
+
+.icon .rain3 {
+    fill: #D8D8D8;
+    -webkit-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+
+.icon:hover .rain3 {
+    -webkit-transform: translate(0, 50px);
+    transform: translate(0, 50px);
+    fill: #666;
+}
+
+
+/*wheel animation*/
+
+.icon .wheel {
+    -webkit-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    -webkit-transform-origin: 50% 50%;
+}
+
+.icon:hover .wheel {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+
+/*Bike animation*/
+
+.icon .wheel1 {
+    -webkit-transition: all 3s ease-in;
+    transition: all 3s ease-in;
+    -webkit-transform-origin: 50% 50%;
+}
+
+.icon:hover .wheel1 {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.icon .wheel2 {
+    -webkit-transition: all 3s ease-in;
+    transition: all 3s ease-in;
+    -webkit-transform-origin: 50% 50%;
+}
+
+.icon:hover .wheel2 {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.icon .grass {
+    -webkit-transition: stroke 2s ease-in;
+    transition: stroke 2s ease-in;
+}
+
+.icon:hover .grass {
+    stroke: green;
+}
+
+
+/*Rainfall animation*/
+
+.icon .drop1 {
+    fill: #D8D8D8;
+    -webkit-transition: 0.7s ease-in;
+    transition: 0.7s ease-in;
+}
+
+.icon:hover .drop1 {
+    -webkit-transform: translate(0, 80px);
+    transform: translate(0, 80px);
+    fill: #666;
+}
+
+.icon .drop2 {
+    fill: #D8D8D8;
+    -webkit-transition: 1s ease-in;
+    transition: 1s ease-in;
+}
+
+.icon:hover .drop2 {
+    -webkit-transform: translate(0, 60px);
+    transform: translate(0, 60px);
+    fill: #666;
+}
+
+.icon .drop3 {
+    fill: #D8D8D8;
+    -webkit-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+
+.icon:hover .drop3 {
+    -webkit-transform: translate(0, 50px);
+    transform: translate(0, 50px);
+    fill: #666;
+}
+
+.icon .drop4 {
+    fill: #D8D8D8;
+    -webkit-transition: 1s ease-in;
+    transition: 1s ease-in;
+}
+
+.icon:hover .drop4 {
+    -webkit-transform: translate(0, 50px);
+    transform: translate(0, 50px);
+    fill: #666;
+}
+
+.icon .drop5 {
+    fill: #D8D8D8;
+    -webkit-transition: 0.6s ease-in;
+    transition: 0.6s ease-in;
+}
+
+.icon:hover .drop5 {
+    -webkit-transform: translate(0, 50px);
+    transform: translate(0, 50px);
+    fill: #666;
+}
+
+.icon .drop6 {
+    fill: #D8D8D8;
+    -webkit-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+
+.icon:hover .drop6 {
+    -webkit-transform: translate(0, 60px);
+    transform: translate(0, 60px);
+    fill: #666;
+}
+
+.icon .drop7 {
+    fill: #D8D8D8;
+    -webkit-transition: 1s ease-in;
+    transition: 1s ease-in;
+}
+
+.icon:hover .drop7 {
+    -webkit-transform: translate(0, 50px);
+    transform: translate(0, 50px);
+    fill: #666;
+}
+
+.icon .drop8 {
+    fill: #D8D8D8;
+    -webkit-transition: 1s ease-in;
+    transition: 1s ease-in;
+}
+
+.icon:hover .drop8 {
+    -webkit-transform: translate(0, 30px);
+    transform: translate(0, 30px);
+    fill: #666;
+}
+
 </style>
 
 <script>
