@@ -34,7 +34,7 @@ tags:
 
 在知乎上看到一个喜欢收集各种前端资源的[林梓](https://www.zhihu.com/people/lin-zi-41-9)的回答:[前端开发资源整理](https://zhuanlan.zhihu.com/p/23344447)。
 
-我找了两天终于找到一个可以适合博客排版的小[SVG]图标(http://cssdeck.com/labs/auvy8wts)，还有几个其他的小图标，比如台灯什么的，感兴趣的可以过去看看。
+我找了两天终于找到一个可以适合博客排版的小[SVG图标](http://cssdeck.com/labs/auvy8wts)，还有几个其他的小图标，比如台灯什么的，感兴趣的可以过去看看。
 
 <style>
 * {
