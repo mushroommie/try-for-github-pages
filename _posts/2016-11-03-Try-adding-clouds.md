@@ -1,7 +1,7 @@
 ---
 layout: post
 header-img: "img/arch.jpg"
-title: "Try adding automatically typing"
+title: "Try a cloud who can rain and light"
 subtitle: "Patience"
 date: 2016-11-03
 author: "Nanya"
