@@ -13,7 +13,7 @@ tags:
     - 每天一首喜欢的歌曲
 ---
 
-<audio src="https://rawgithub.com/mushroommie/loved-songs/master/Zhangxuan-MY-BABY.mp3" autoplay="true" controls="true"></audio>
+<audio src="https://rawgithub.com/mushroommie/loved-songs/master/Zhangxuan-MY-BABY.mp3" autoplay="true" controls></audio>
 
 写这篇文，是因为大学室友结婚了，而我连信儿却并不知道，这不禁让我回头想，大学四年，自己究竟得到了什么。
 
