@@ -13,7 +13,7 @@ tags:
     - 1 克拉
 ---
 
-<audio autoplay="ture" controls src="https://rawgithub.com/mushroommie/loved-songs/master/Tanya-1-Carat.mp3"></audio>
+<audio autoplay="true" controls src="https://rawgithub.com/mushroommie/loved-songs/master/Tanya-1-Carat.mp3"></audio>
 
 文章翻译自[treamtreehouse](http://blog.teamtreehouse.com/mastering-developer-tools-console)，些许地方有改动，转载请标明出处。
 
@@ -53,7 +53,7 @@ tags:
 
 你会看到测试的*Hello World!*在console中被打印了出来（如下图所示）。
 
-<img src="">
+<img src="https://rawgithub.com/mushroommie/images/master/console/hello-world.png">
 
 <span style="font-size:12px">在console中使用console.log</span>
 
@@ -65,8 +65,6 @@ tags:
 <span style="color:red">console.log</span>开始。这个方法只是在console中简单的输出一个对象。
 
 	console.log("Hello Trehouse");
-
-<img src="https://rawgithub.com/mushroommie/images/master/console/hello-world.png">
 
 如果你列举出了几个对象，它们会被空格连接成一个单独的字符串输出到console。
 
@@ -188,7 +186,7 @@ chrome支持下面的格式化字符：
 
 最后，<span style="color:red">console.warn()</span>方法将在控制台输出带有<span style="color:red">warning</span>标志的消息。
 
-<img src="https://rawgithub.com/mushroommie/images/master/console/console-warn.png">
+<img src="https://rawgithub.com/mushroommie/images/master/console/console-warning.png">
 
 <span style="font-size:12px">使用console.warn()输入告警信息</span>
 
