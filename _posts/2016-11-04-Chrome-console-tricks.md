@@ -13,7 +13,7 @@ tags:
     - 1 克拉
 ---
 
-<audio autoplay="true" controls src="https://rawgithub.com/mushroommie/loved-songs/master/Tanya-1-Carat.mp3"></audio>
+<audio src="https://rawgithub.com/mushroommie/loved-songs/master/Tanya-1-Carat.mp3" autoplay="true" controls ></audio>
 
 文章翻译自[treamtreehouse](http://blog.teamtreehouse.com/mastering-developer-tools-console)，些许地方有改动，转载请标明出处。
 
