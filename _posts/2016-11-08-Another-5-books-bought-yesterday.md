@@ -1,6 +1,6 @@
 ---
 layout: post
-img: "img/colorful-sky.jpg"
+header-img: "img/colorful-sky.jpg"
 title: "昨天买的几本书"
 subtitle: "关于女人和生活"
 authou: "Nanya"
