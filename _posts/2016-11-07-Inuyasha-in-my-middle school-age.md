@@ -13,4 +13,4 @@ tags:
     - middle school
 ---
 
-<audio src="https://rawgithub.com/mushroommie/loved-songs/master/V6-Change-the-world.mp3" autoplay="true" controls ></audio>
+<audio src="https://rawgithub.com/mushroommie/loved-songs/master/Kikyou.mp3" autoplay="true" controls ></audio>
