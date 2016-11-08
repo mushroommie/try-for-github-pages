@@ -51,15 +51,15 @@ kramdown:
 disqus_username: mushroommie
 
 # Duoshuo settings
-#duoshuo_username: mushroommie
+duoshuo_username: mushroommie
 # Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 ba_track_id: cf8506e0ef223e57ff6239944e5d46a4
 
 # Google Analytics
