@@ -3,7 +3,7 @@ layout: post
 header-img: "img/colorful-sky.jpg"
 title: "昨天买的几本书"
 subtitle: "关于女人和生活"
-authou: "Nanya"
+author: "Nanya"
 date: 2016-11-08
 catalog: true
 tags:
