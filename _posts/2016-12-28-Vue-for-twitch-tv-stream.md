@@ -1,6 +1,6 @@
 ---
 layout: post
-header-img: "img/animals.png"
+header-img: "img/1.png"
 title: "What's on twitch tv"
 subtitle: "使用vue js"
 author: "Nanya"

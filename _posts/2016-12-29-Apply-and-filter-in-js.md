@@ -1,6 +1,6 @@
 ---
 layout: post
-header-img: "img/animals.png"
+header-img: "img/2.png"
 title: "日常"
 subtitle: "stackoverflow"
 author: "Nanya"
