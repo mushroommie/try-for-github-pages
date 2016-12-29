@@ -4,7 +4,7 @@ header-img: "img/animals.png"
 title: "What's on twitch tv"
 subtitle: "使用vue js"
 author: "Nanya"
-date: 2016-12-27
+date: 2016-12-28
 catalog: true
 tags:
     - free code camp
