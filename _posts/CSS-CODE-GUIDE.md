@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Alloyteam推荐的CSS/SCSS编码规范"
+subtitle: "都是抄的"
+date: 2019-12-30
+author: "Journee"
+catalog: true
+tags:
+    - CSS
+---
+
 # CSS,SCSS
 
 * # 缩进
