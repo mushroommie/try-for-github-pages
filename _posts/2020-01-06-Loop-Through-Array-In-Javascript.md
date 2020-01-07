@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "loop-through-an-array-in-javascript"
-subtitle: "js中数组循环的几种方法"
+title: "js循环数组几种方法对比"
+subtitle: "for\forEach\for...of\for...in"
 date: 2020-01-06
 author: "Journee"
 catalog: true
@@ -9,6 +9,8 @@ tags:
     - JS
     - array
 ---
+
+原文地址：[Loop through an array in JavaScript](https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript?page=1&tab=votes#tab-top)
 
 循环数组，有好几种方法可以选择：
 
