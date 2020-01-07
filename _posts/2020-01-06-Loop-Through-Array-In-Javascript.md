@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "js循环数组几种方法对比"
-subtitle: "for\forEach\for...of\for...in"
+subtitle: "for/forEach/for...of/for...in"
 date: 2020-01-06
 author: "Journee"
 catalog: true
